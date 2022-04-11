@@ -9,6 +9,7 @@ The purpose of this analysis was to split amazon review data into two categories
 
 versus 
 
+
 2. Not paid
 
 ![](https://github.com/JosieBoyer/Amazon_Reviews_ETL/blob/main/notpaid.PNG)
